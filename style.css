@@ -437,7 +437,8 @@ input, select {
 }
 
 .content-footer {
-    height: 80px;
+    height: 100px;
+    padding: 10px 0;
     background-color: rgb(240, 240, 240);
     width: 100%;
 }
