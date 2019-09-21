@@ -463,6 +463,7 @@ input, select {
     font-size: 14px;
     letter-spacing: 2px;
     line-height: 80px;
+    width: 30%;
 }
 
 .content-footer h4 {
@@ -474,6 +475,7 @@ input, select {
     font-weight: 100;
     font-style: italic;
     line-height: 80px;
+    width: 70%;
 }
 
 .content-footer ul {
