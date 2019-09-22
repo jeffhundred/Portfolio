@@ -440,7 +440,7 @@ input, select {
     height: 100px;
     background-color: rgb(240, 240, 240);
     width: 100%;
-    padding: 10px 0;
+    padding-top: 20px;
 }
 
 .resume-content {
