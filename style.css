@@ -817,6 +817,7 @@ input, select {
     }
 
     .content-footer ul {
+        display: inline-block;
         float: right;
         line-height: 80px;
     }
