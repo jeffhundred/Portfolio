@@ -773,8 +773,8 @@ input, select {
     }
 
     .content-footer {
-        height: 80px;
-        background-color: rgb(240, 240, 240) !important;
+        height: 80px !important;
+        background-color: rgb(240, 240, 240);
         width: 100%;
         line-height: 80px;
         margin-bottom: 0;
