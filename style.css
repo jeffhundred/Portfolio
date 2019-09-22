@@ -773,10 +773,9 @@ input, select {
     }
 
     .content-footer {
-        height: fit-content;
+        height: 80px;
         background-color: rgb(240, 240, 240) !important;
         width: 100%;
-
         line-height: 80px;
         margin-bottom: 0;
     }
