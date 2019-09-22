@@ -478,7 +478,7 @@ input, select {
     line-height: 100px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 460px) {
     .content-footer ul {
         line-height: 50px !important;
     }
