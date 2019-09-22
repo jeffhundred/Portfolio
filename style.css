@@ -437,10 +437,10 @@ input, select {
 }
 
 .content-footer {
-    height: 100px;
+    height: 120px;
     background-color: rgb(240, 240, 240);
     width: 100%;
-    line-height: 100px;
+    line-height: 120px;
 }
 
 .resume-content {
@@ -477,7 +477,7 @@ input, select {
 
 .content-footer ul {
     float: center;
-    line-height: 50px;
+    line-height: 60px;
 }
 
 .content-footer ul li {
