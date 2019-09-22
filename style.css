@@ -478,6 +478,12 @@ input, select {
     line-height: 100px;
 }
 
+@media only screen and (max-width: 375px) {
+    .content-footer ul {
+        line-height: 50px;
+    }
+}    
+
 .content-footer ul li {
     display: inline-block;
     padding-right: 25px;
