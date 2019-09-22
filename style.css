@@ -437,10 +437,11 @@ input, select {
 }
 
 .content-footer {
-    height: 160px;
+    height: 100px;
     background-color: rgb(240, 240, 240);
     width: 100%;
     line-height: 80px;
+    padding: 10px 0;
 }
 
 .resume-content {
