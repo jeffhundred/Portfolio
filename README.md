@@ -1,9 +1,5 @@
 # Portfolio
 
-This is my current project portfolio
+A REDESIGN OF THIS PORTFOLIO IS NOW UNDER
+THE REPO github.com/jeffhundred/my-portfolio
 
-created with HTML, CSS, and JavaScript.
-
-also uses some jQuery
-
-background images from unsplash
